@@ -1,0 +1,6 @@
+﻿services:
+  api:
+    environment:
+      Serilog__MinimumLevel__Default: Debug
+    volumes:
+      - ../logs:/app/logs

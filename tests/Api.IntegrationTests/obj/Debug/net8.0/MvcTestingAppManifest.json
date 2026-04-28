@@ -1,0 +1,8 @@
+{
+  "Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ahmed\\Downloads\\My-Github\\Observability & Audit System\\ObservabilityAuditSystem\\src\\Api",
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ahmed\\Downloads\\My-Github\\Observability & Audit System\\ObservabilityAuditSystem\\src\\Application",
+  "Bootstrapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ahmed\\Downloads\\My-Github\\Observability & Audit System\\ObservabilityAuditSystem\\src\\Bootstrapper",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ahmed\\Downloads\\My-Github\\Observability & Audit System\\ObservabilityAuditSystem\\src\\Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ahmed\\Downloads\\My-Github\\Observability & Audit System\\ObservabilityAuditSystem\\src\\Infrastructure",
+  "SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\ahmed\\Downloads\\My-Github\\Observability & Audit System\\ObservabilityAuditSystem\\src\\SharedKernel"
+}

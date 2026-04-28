@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.Audit.AuditLogController.GetAll(System.String,System.String,System.Nullable{Domain.Entities.AuditLogStatus},System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Get paged audit logs with optional filters.
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.Audit.AuditLogController.GetById(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Get an audit log by id.
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.Audit.AuditLogController.GetByUser(System.String,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Get audit logs for a specific user.
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.Audit.AuditLogController.Export(System.String,System.String,System.Nullable{Domain.Entities.AuditLogStatus},System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.Threading.CancellationToken)">
+            <summary>
+            Export audit logs as CSV.
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.Audit.AuditLogController.Purge(System.DateTime,System.Threading.CancellationToken)">
+            <summary>
+            Purge audit logs older than the provided UTC date.
+            </summary>
+        </member>
+        <member name="M:Api.Controllers.Auth.AuthController.Token(Api.Authentication.TokenRequest)">
+            <summary>
+            Development placeholder endpoint that issues a JWT token.
+            </summary>
+        </member>
+    </members>
+</doc>
